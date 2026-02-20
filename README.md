@@ -23,8 +23,6 @@ Building scalable, secure & automated cloud systems ☁️
 
 ---
 
-## 🔁 DevOps Workflow
-
 ---
 
 ## 🚀 Expertise
