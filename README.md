@@ -1,43 +1,65 @@
-# Hi, I'm Ravichandra Kotapati 👋
+<h1 align="center">Hi 👋, I'm Ravichandra Kotapati</h1>
+<h3 align="center">DevOps Engineer | AWS • Kubernetes • Terraform • CI/CD • GitOps</h3>
 
-🚀 DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | GitOps  
-📍 Bengaluru, India  
-💼 2.5 Years Experience | Product-Based Company  
-
----
-
-## 👨‍💻 About Me
-
-DevOps Engineer with 2.5+ years of experience in automating, optimizing, and securing cloud infrastructure.  
-Experienced in AWS, Kubernetes, Terraform, Jenkins, ArgoCD, and monitoring tools.
-
-Passionate about building scalable, high-availability cloud systems.
+<p align="center">
+📍 Bengaluru, India | 💼 2.5+ Years Experience <br>
+Building scalable, secure & automated cloud systems ☁️
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-☁️ Cloud: AWS (EC2, EKS, S3, IAM, VPC, ALB, Route53), Azure  
-⚙️ CI/CD: Jenkins, ArgoCD, GitHub Actions  
-🐳 Containers: Docker, Kubernetes, Helm  
-🏗 IaC: Terraform, Ansible  
-📊 Monitoring: Prometheus, Grafana, ELK  
-💻 Scripting: Python, Shell, Linux  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,jenkins,githubactions,ansible,linux,python,grafana" />
+</p>
+
+☁️ **Cloud:** AWS (EC2, EKS, S3, IAM, VPC, ALB, Route53)  
+⚙️ **CI/CD & GitOps:** Jenkins, ArgoCD, GitHub Actions  
+🐳 **Containers:** Docker, Kubernetes, Helm  
+🏗 **Infrastructure as Code:** Terraform, Ansible  
+📊 **Monitoring:** Prometheus, Grafana, ELK  
+💻 **Scripting:** Python, Shell, Linux  
 
 ---
 
-## 📈 What I Work On
+## 🔁 DevOps Workflow
 
-- CI/CD pipeline optimization
-- Kubernetes production deployments
-- GitOps implementation
-- Infrastructure Automation (Terraform)
-- AWS cost optimization
+---
+
+## 🚀 Expertise
+
+✔ Production-grade EKS deployments  
+✔ Infrastructure as Code (Terraform)  
+✔ CI/CD pipeline optimization  
+✔ GitOps implementation (ArgoCD)  
+✔ AWS cost optimization  
+✔ High-availability & monitoring systems  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravichandraaaa&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravichandraaaa&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🏆 Certification
+
+🎓 HashiCorp Certified: Terraform Associate  
 
 ---
 
 ## 📫 Connect With Me
 
-📧 ravichandrakotapati68@gmail.com  
-🔗 LinkedIn: (Add Link)  
-🐙 GitHub: https://github.com/yourusername## Hi there 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/ravichandra-kotapati/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:ravichandrakotapati68@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
