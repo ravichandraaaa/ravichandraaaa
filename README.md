@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer | AWS • Kubernetes • Terraform • CI/CD • GitOps</h3>
 
 <p align="center">
-📍 Bengaluru, India | 💼 2.5+ Years Experience <br>
+📍 Bengaluru, India | 💼 3+ Years Experience <br>
 Building scalable, secure & automated cloud systems ☁️
 </p>
 
